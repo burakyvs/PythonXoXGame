@@ -1,2 +1,2 @@
 # xoxgame
-XoX Game with Python
+XoX Game with Python, made in 2017.
