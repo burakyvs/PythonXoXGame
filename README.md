@@ -1,2 +1,2 @@
 # xoxgame
-XoX Game with Python, made in 2017.
+XoX Game with Python Tkinter, made in 2017.
